@@ -1,6 +1,6 @@
 # Home-Credit-OLS-Regression-
 ---
-## Home Credit 信貸風控與額度定價最佳化：基於機器學習的量化分析總結報告
+## Home Credit 信貸風控與額度定價最佳化
 ---
 
 ### 1. 商業背景與研究目的 (Business Value & Research Purpose)
